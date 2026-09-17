@@ -139,5 +139,5 @@ If you're building something around AI, experimenting with LLMs, or trying to ma
 </div>
 
 <div align="center">
-<sub>Thanks for stopping by. There's probably an AI agent somewhere in here that still needs debugging. 🤖</sub>
+<sub>Thanks for stopping by. 🤖</sub>
 </div>

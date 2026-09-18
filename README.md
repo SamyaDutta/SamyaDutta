@@ -124,20 +124,6 @@ Particularly interested in **AI engineering, retrieval systems, agent orchestrat
 
 </div>
 
----
-
-## 📫 Let's Connect
-
-If you're building something around AI, experimenting with LLMs, or trying to make a complicated engineering problem a little less complicated — feel free to reach out.
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Samya%20Dutta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samya-dutta-74aa59249/)
-[![GitHub](https://img.shields.io/badge/GitHub-SamyaDutta-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SamyaDutta)
-[![Gmail](https://img.shields.io/badge/samyadutta29%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samyadutta29@gmail.com)
-
-</div>
-
 <div align="center">
 <sub>Thanks for stopping by. 🤖</sub>
 </div>

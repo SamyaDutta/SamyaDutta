@@ -95,7 +95,7 @@ AI-powered supply-chain and logistics decision-intelligence system applying AI t
 | 🎓 Academics | 🏅 Recognition |
 |:---|:---|
 | **9.58 / 10** GPA — B.Tech CSE (AI) | **IEM Director's Award** — Best Scientific Mind 2026 |
-| **4th Rank** — Final & Pre-Final Year | **Chairperson** — IEEE Computer Society, IEM Student Branch Chapter (2025) |
+| **4th & 6th Rank** — Pre-Final & Final Year | **Chairperson** — IEEE Computer Society, IEM Student Branch Chapter (2025) |
 | **GATE Qualified** — 2025 & 2026 | National-level IEEE awards |
 
 </div>
